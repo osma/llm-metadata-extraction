@@ -1,0 +1,6 @@
+jupyter
+finna-client
+openai[datalib]
+pypdf
+requests
+lxml
