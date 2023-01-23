@@ -14,7 +14,7 @@ The set of 192 documents will be split into two subsets (train: 149, test: 43). 
 
 ## Example output
 
-Here is `diff` output showing the difference between the original (manually created) metadata (-, red) and the output of the model (+, green) with some comments after each example.
+Here is `diff` output showing the difference between the original (manually created) metadata (-, red) and the output of the model (+, green) with some comments after each example. These are all documents from the test set that the model has never seen before.
 
 ### University of Vaasa
 
