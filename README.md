@@ -4,7 +4,7 @@ Experiment on metadata extraction using large language models.
 
 The experiment itself is in the Jupyter notebook
 [ExtractMetadataUsingFinetunedGPT3.ipynb](ExtractMetadataUsingFinetunedGPT3.ipynb)
-which you can view directly on GitHub without installing anything.
+which you can view directly on GitHub without installing anything. If you want to run it yourself, see the bottom of this page.
 
 ## Data set
 
