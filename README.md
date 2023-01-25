@@ -10,7 +10,7 @@ which you can view directly on GitHub without installing anything.
 
 The aim of the experiment is to extract metadata from recent (2021-2022) doctoral theses obtain from four Finnish universities (Åbo Akademi, University of Turku, University of Vaasa and Lappeenranta University of Technology), using only the raw text from the first few pages of the PDF.
 
-The set of 192 documents will be split into two subsets (train: 149, test: 43). We will extract the text from around 5 pages of text, aiming for 500 to 700 words. The corresponding metadata, which has been exported from DSpace repositories of the universities, is represented in a simple textual "key: value" format, which should be easy enough for a language model to handle. The train set is used to create a data set which will then be used to fine-tune a GPT-3 Curie model. Subsequently the model can be used to generate similar metadata for unseen documents from the test set.
+The set of 192 documents (88% English, 7% Finnish, 5% Swedish language) will be split into two subsets (train: 149, test: 43). We will extract the text from around 5 pages of text, aiming for 500 to 700 words. The corresponding metadata, which has been exported from DSpace repositories of the universities, is represented in a simple textual "key: value" format, which should be easy enough for a language model to handle. The train set is used to create a data set which will then be used to fine-tune a GPT-3 Curie model. Subsequently the model can be used to generate similar metadata for unseen documents from the test set.
 
 ## Example output
 
